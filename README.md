@@ -12,6 +12,7 @@
 * apexchart
 * vue-router 
 * vuex
+
 Серверные технологии:
 * python
 * django
